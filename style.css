@@ -1,0 +1,18 @@
+
+body i.inst {
+	float: left;
+	font-size: 80px;
+	color: #ffff;
+	text-shadow: 5px 4px 5px red;
+	padding-left: 5px;
+	padding-top: 1px;
+	padding-right: 6px;
+	padding-bottom: 1px;
+	background-image: linear-gradient(to right top, #ffc838, #ffaf33, #ff9635, #ff7c3d, #ff6147, #ff4f5f, #ff4278, #f73c92, #e351ba, #c268dc, #917df3, #458eff);
+	border-radius: 25px;
+	border: 2px solid #ffff;
+	/* padding: 6px; */
+	width: 68px;
+	height: 81px;
+}
+
